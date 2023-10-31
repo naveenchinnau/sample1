@@ -6,4 +6,4 @@ login and logout
 
 change1
 not yet completed
-completed
+completed today
