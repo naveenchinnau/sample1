@@ -1,3 +1,4 @@
 add and remove users
 and change the roles
 manage the databe
+closing the connection
