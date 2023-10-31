@@ -1,7 +1,7 @@
 add and remove users
 and change the roles
 manage the databe
-closing the connection
+closing the database connection
 
 change1
 change2 in harsh database
